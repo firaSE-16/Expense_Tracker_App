@@ -1,16 +1,15 @@
-# flutter_application_5
+Expense Tracker App
+The Expense Tracker App is a simple Flutter application that helps users manage their daily expenses. It allows users to track spending across different categories such as food, travel, leisure, and work. Each expense entry includes a title, amount, date, and category, and is automatically assigned a unique ID using UUID.
 
-A new Flutter project.
+Key Features
+✔️ Expense Management – Users can view a list of their expenses in an organized format.
+✔️ Categorization – Expenses are grouped into predefined categories like food, travel, leisure, and work.
+✔️ Dynamic List Rendering – The app uses ListView.builder to efficiently display expenses.
+✔️ Modern UI – Uses Flutter’s Material Design for a clean and responsive interface.
 
-## Getting Started
+Upcoming Features
+🔹 Add new expenses dynamically.
+🔹 Implement expense deletion and editing.
+🔹 Integrate data persistence using local storage or a database.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🚀 This app is a great starting point for learning Flutter state management and UI development!
