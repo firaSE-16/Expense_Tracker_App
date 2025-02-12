@@ -64,6 +64,8 @@ class Chart extends StatelessWidget {
                         ? 0
                         : bucket.totalExpenses / maxTotalExpense,
                   )
+
+                  
               ],
             ),
           ),

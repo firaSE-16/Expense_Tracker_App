@@ -75,6 +75,7 @@ void _removedExpense(Expense expense) {
       ),
       body: Column(
         children: [
+          
           Chart(expenses: _expenses), 
           mainContent, 
           
